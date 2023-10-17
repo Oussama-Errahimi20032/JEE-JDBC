@@ -1,1 +1,1 @@
-# JEE-JDBC
+# J2E-JDBC
