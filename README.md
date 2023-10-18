@@ -1,5 +1,5 @@
 # J2E-JDBC
-This Java project provides a interface for creation, modification and elimination of clients and services. This README contains covert information on how to configure this project.
+This Java project provides a interface for creation, modification and elimination of clients and services.This README provides comprehensive insights into the project's functionality
 
 # Client interface
 <img src="images/client_interfaces.png" alt="Alt text" title="Client interface">
@@ -13,7 +13,7 @@ This Java project provides a interface for creation, modification and eliminatio
 # Modifier service
 <img src="images/service-modifie.png" alt="Alt text" title="Modifie service">
 
-#Supprimer service
+# Supprimer service
 <img src="images/service-supprimer.png" alt="Alt text" title="Supprime service">
 
 # Rechercher par service
